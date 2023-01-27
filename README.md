@@ -10,7 +10,7 @@ Open source libraries used:
 Picasso: https://github.com/square/picasso
 Confetti: https://github.com/jinatonic/confetti
 
-API used:
+APIs used:
 https://firebase.google.com/
 Firebase Storage
 Firebase Firestore Database
